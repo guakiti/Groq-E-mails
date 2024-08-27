@@ -1,0 +1,31 @@
+Aqui, temos um exemplo de como as ações do "Content Specialist" fornecer o feedback e o "Emaiil author" reescrever o texto utilizando o feedback:
+
+
+Versão inicial:
+Subject: Elevate Your Video Content with Our User-Friendly Video Editing Solution
+
+Dear [Recipient's Name],
+
+Do you ever feel like you're spending too much time editing your video content? Our video editing solution is here to help! With an intuitive interface and time-saving features, you can create professional-looking videos in no time.
+
+As a video content creator or marketing professional, you know how important it is to produce high-quality content. That's why we've designed our video editing solution with you in mind. With all the tools you need to succeed, you can streamline your editing process and focus on what really matters - creating amazing videos.
+
+Ready to take your video content to the next level? Try our video editing solution today and see the difference for yourself!
+
+Best,
+[Your Name]
+
+
+Versão final (após o escritor de e-mails receber o feedback e reescrever o texto):
+Subject: Elevate Your Video Content with Our User-Friendly Video Editing Solution
+
+Dear [Recipient's Name],
+
+Are you tired of spending countless hours editing your video content? Our video editing solution is here to save the day! With an intuitive interface and time-saving features, you can create professional-looking videos in no time.
+
+Say goodbye to complicated editing software and hello to a seamless experience that will take your video content to the next level. Our video editing solution is designed with video content creators and marketing professionals in mind, ensuring that you have all the tools you need to succeed.
+
+Ready to streamline your video editing process and produce high-quality content? Try our video editing solution today and see the difference for yourself!
+
+Best,
+[Your Name]
